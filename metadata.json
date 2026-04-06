@@ -1,0 +1,5 @@
+{
+  "name": "AgroDrone AI - Innovation Hackathon Demo",
+  "description": "A drone image analysis system for crop health monitoring and risk prediction in precision agriculture.",
+  "requestFramePermissions": []
+}
